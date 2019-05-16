@@ -1,5 +1,5 @@
 try:
-  n=int(input("enter the number"))
+  n=5
   if(n<0):
     print("invalid")
   elif(n%2==0):
