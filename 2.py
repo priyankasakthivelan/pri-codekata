@@ -3,8 +3,8 @@ try:
   if(n<0):
     print("invalid")
   elif(n%2==0):
-    print("it is even")
+    print("even")
   elif(n%2!=0):
-    print("it is odd")
+    print("odd")
 except ValueError:
-    print("invalid input")
+    print("invalid")
