@@ -1,6 +1,3 @@
-n = int(input())
-def multiple(m, n): 
-  a = range(n, (m * n)+1, n) 
-  print(*a)   
-m = 5
-multiple(m, n) 
+n=int(input())
+for i in range(1,6):
+    print(n*i,  end=" ")
