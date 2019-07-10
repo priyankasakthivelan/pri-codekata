@@ -1,0 +1,6 @@
+p=input()
+p=p.split()
+p[0]=p[0].capitalize()
+p[1]=p[1].capitalize()
+print(p[0],end=" ")
+print(p[1])
