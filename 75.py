@@ -1,0 +1,2 @@
+ra=input()
+print(ra)
